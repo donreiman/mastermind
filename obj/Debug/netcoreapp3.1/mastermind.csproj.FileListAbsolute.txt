@@ -1,0 +1,12 @@
+/Users/donreiman/Development/quadax/mastermind/bin/Debug/netcoreapp3.1/mastermind.deps.json
+/Users/donreiman/Development/quadax/mastermind/bin/Debug/netcoreapp3.1/mastermind.runtimeconfig.json
+/Users/donreiman/Development/quadax/mastermind/bin/Debug/netcoreapp3.1/mastermind.runtimeconfig.dev.json
+/Users/donreiman/Development/quadax/mastermind/bin/Debug/netcoreapp3.1/mastermind.dll
+/Users/donreiman/Development/quadax/mastermind/bin/Debug/netcoreapp3.1/mastermind.pdb
+/Users/donreiman/Development/quadax/mastermind/obj/Debug/netcoreapp3.1/mastermind.csprojAssemblyReference.cache
+/Users/donreiman/Development/quadax/mastermind/obj/Debug/netcoreapp3.1/mastermind.csproj.CoreCompileInputs.cache
+/Users/donreiman/Development/quadax/mastermind/obj/Debug/netcoreapp3.1/mastermind.AssemblyInfoInputs.cache
+/Users/donreiman/Development/quadax/mastermind/obj/Debug/netcoreapp3.1/mastermind.AssemblyInfo.cs
+/Users/donreiman/Development/quadax/mastermind/obj/Debug/netcoreapp3.1/mastermind.dll
+/Users/donreiman/Development/quadax/mastermind/obj/Debug/netcoreapp3.1/mastermind.pdb
+/Users/donreiman/Development/quadax/mastermind/obj/Debug/netcoreapp3.1/mastermind.genruntimeconfig.cache
