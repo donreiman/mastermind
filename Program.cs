@@ -19,13 +19,13 @@ namespace mastermind
                 if (GuessIsValid(guessString))
                 {
                     Numeral guess = new Numeral(guessString);
-                    string numeralComparison = CompareGuessNumeralToActualNumeral(guess.FourDigitString, actual.FourDigitString);
-                    if (numeralComparison == "++++")
+                    if (guess.FourDigitString == actual.FourDigitString)
                     {
                         correctGuess = true;
                     }
                     else
                     {
+                        string numeralComparison = CompareGuessNumeralToActualNumeral(guess.FourDigitString, actual.FourDigitString);
                         Console.WriteLine(numeralComparison);
                     }
                     guessCount++;
